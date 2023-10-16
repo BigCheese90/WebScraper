@@ -1,0 +1,45 @@
+url;description;external
+https://the-internet.herokuapp.com/abtest;A/B Testing;FALSE
+https://the-internet.herokuapp.com/add_remove_elements/;Add/Remove Elements;FALSE
+https://the-internet.herokuapp.com/basic_auth;Basic Auth;FALSE
+https://the-internet.herokuapp.com/broken_images;Broken Images;FALSE
+https://the-internet.herokuapp.com/challenging_dom;Challenging DOM;FALSE
+https://the-internet.herokuapp.com/checkboxes;Checkboxes;FALSE
+https://the-internet.herokuapp.com/context_menu;Context Menu;FALSE
+https://the-internet.herokuapp.com/digest_auth;Digest Authentication;FALSE
+https://the-internet.herokuapp.com/disappearing_elements;Disappearing Elements;FALSE
+https://the-internet.herokuapp.com/drag_and_drop;Drag and Drop;FALSE
+https://the-internet.herokuapp.com/dropdown;Dropdown;FALSE
+https://the-internet.herokuapp.com/dynamic_content;Dynamic Content;FALSE
+https://the-internet.herokuapp.com/dynamic_controls;Dynamic Controls;FALSE
+https://the-internet.herokuapp.com/dynamic_loading;Dynamic Loading;FALSE
+https://the-internet.herokuapp.com/entry_ad;Entry Ad;FALSE
+https://the-internet.herokuapp.com/exit_intent;Exit Intent;FALSE
+https://the-internet.herokuapp.com/download;File Download;FALSE
+https://the-internet.herokuapp.com/upload;File Upload;FALSE
+https://the-internet.herokuapp.com/floating_menu;Floating Menu;FALSE
+https://the-internet.herokuapp.com/forgot_password;Forgot Password;FALSE
+https://the-internet.herokuapp.com/login;Form Authentication;FALSE
+https://the-internet.herokuapp.com/frames;Frames;FALSE
+https://the-internet.herokuapp.com/geolocation;Geolocation;FALSE
+https://the-internet.herokuapp.com/horizontal_slider;Horizontal Slider;FALSE
+https://the-internet.herokuapp.com/hovers;Hovers;FALSE
+https://the-internet.herokuapp.com/infinite_scroll;Infinite Scroll;FALSE
+https://the-internet.herokuapp.com/inputs;Inputs;FALSE
+https://the-internet.herokuapp.com/jqueryui/menu;JQuery UI Menus;FALSE
+https://the-internet.herokuapp.com/javascript_alerts;JavaScript Alerts;FALSE
+https://the-internet.herokuapp.com/javascript_error;JavaScript onload event error;FALSE
+https://the-internet.herokuapp.com/key_presses;Key Presses;FALSE
+https://the-internet.herokuapp.com/large;Large & Deep DOM;FALSE
+https://the-internet.herokuapp.com/windows;Multiple Windows;FALSE
+https://the-internet.herokuapp.com/nested_frames;Nested Frames;FALSE
+https://the-internet.herokuapp.com/notification_message;Notification Messages;FALSE
+https://the-internet.herokuapp.com/redirector;Redirect Link;FALSE
+https://the-internet.herokuapp.com/download_secure;Secure File Download;FALSE
+https://the-internet.herokuapp.com/shadowdom;Shadow DOM;FALSE
+https://the-internet.herokuapp.com/shifting_content;Shifting Content;FALSE
+https://the-internet.herokuapp.com/slow;Slow Resources;FALSE
+https://the-internet.herokuapp.com/tables;Sortable Data Tables;FALSE
+https://the-internet.herokuapp.com/status_codes;Status Codes;FALSE
+https://the-internet.herokuapp.com/typos;Typos;FALSE
+https://the-internet.herokuapp.com/tinymce;WYSIWYG Editor;FALSE

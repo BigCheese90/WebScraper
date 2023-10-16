@@ -1,0 +1,8 @@
+[
+  {
+    "level": "WARNING",
+    "message": "chrome-error://chromewebdata/ 1567:1640 \"crbug/1173575, non-JS module files deprecated.\"",
+    "source": "console-api",
+    "timestamp": 1696590013278
+  }
+]
